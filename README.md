@@ -10,3 +10,5 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ![snake gif](https://github.com/DaisukeAkuma/DaisukeAkuma/blob/output/github-contribution-grid-snake.gif)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DaisukeAkuma" alt="DaisukeAkuma" /></a> </p>
